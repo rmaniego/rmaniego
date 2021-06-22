@@ -1,6 +1,13 @@
 ### Hi there 👋
 
+![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=@rmaniego)
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=rmaniego)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rmaniego&layout=compact)
+
+
+Cards by [anuraghazra](https://github.com/anuraghazra/github-readme-stats).
 
 <!--
 **rmaniego/rmaniego** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
