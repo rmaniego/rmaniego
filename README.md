@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=@rmaniego)
-
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=rmaniego)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rmaniego&layout=compact)
