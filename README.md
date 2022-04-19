@@ -12,9 +12,9 @@ Rod is a ✨ _Python Dev_ ✨ previously a Test Engineer and Educator, whoa! A d
 
   💬 AMA [DM](https://twitter.com/ethwxyz)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=rmaniego)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rmaniego&layout=compact)
+|   |   |
+|---|---|
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=rmaniego&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="RManiego's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rmaniego&layout=compact&theme=buefy&hide_border=true" /> |
 
 
 Cards by [anuraghazra](https://github.com/anuraghazra/github-readme-stats).
