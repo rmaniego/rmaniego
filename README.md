@@ -22,6 +22,14 @@ Rod is a ✨ _Python Dev_ ✨ previously a Test Engineer and Educator, whoa! A d
 
 <br>
 
+<div>
+  <span><a href="https://www.linkedin.com/in/rodmaniego/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="20px"></a><span>&nbsp;
+  <span><a href="rodmaniego.wordpress.com/"><img src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" height="20px"></a><span>&nbsp;
+  <span><a href="https://www.hackerrank.com/rmaniego"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" height="20px"></a><span>&nbsp;
+</div>
+
+<br>
+
 ![RManiego's GitHub stats](https://github-readme-stats.vercel.app/api?username=rmaniego&show_icons=true&include_all_commits=true)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rmaniego&layout=compact&theme=buefy&hide_border=true)
