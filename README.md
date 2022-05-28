@@ -6,7 +6,7 @@ Rod is a ✨ _Python Dev_ ✨ previously a Test Engineer and Educator, whoa! A d
   
   🔮 Working on Presage [↗](https://presage.herokuapp.com/)
   
-  🧰 Builder of [Arkivist](https://github.com/rmaniego/arkivist) [Woshi](https://github.com/rmaniego/woshi) [Maguro](https://github.com/rmaniego/maguro) [Namari](https://github.com/rmaniego/namari) [PreSQL](https://github.com/rmaniego/presql) and [Shameni](https://github.com/rmaniego/shameni)
+  🧰 Builder of [Arkivist](https://github.com/rmaniego/arkivist) [Woshi](https://github.com/rmaniego/woshi) [Maguro](https://github.com/rmaniego/maguro) [Namari](https://github.com/rmaniego/namari) and [PreSQL](https://github.com/rmaniego/presql).
   
   👨🏽‍🌾 Multipassionate, Advocate of Practical Sustainability [↗](https://www.youtube.com/c/LoyBukid)
 
