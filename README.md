@@ -6,7 +6,7 @@ Rod is a ✨ _Python Dev_ ✨ previously building test automations as a Test Eng
   
   🔮 Working on Presage [↗](https://presage.herokuapp.com/)
   
-  🧰 Builder of [Arkivist](https://github.com/rmaniego/arkivist) and [Woshi](https://github.com/rmaniego/woshi)
+  🧰 Builder of [Arkivist](https://github.com/rmaniego/arkivist), [Woshi](https://github.com/rmaniego/woshi), and [Nektar](https://github.com/rmaniego/nektar)
   
   👨🏽‍🌾 Multipassionate, Advocate of Practical Sustainability!
   
