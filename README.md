@@ -27,7 +27,9 @@ Rod is a ✨ _Python Dev_ ✨ previously building test automations as a Test Eng
   <span><a href="https://www.linkedin.com/in/rodmaniego/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="20px"></a><span>&nbsp;
   <span><a href="https://rodmaniego.wordpress.com/"><img src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" height="20px"></a><span>&nbsp;
   <span><a href="https://www.hackerrank.com/rmaniego"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" height="20px"></a><span>&nbsp;
+    <span><a href="https://ecency.com/@oniemaniego/posts"><img src="https://developers.hive.io/images/logotype_black.svg" height="20px"></a><span>&nbsp;
 </div>
+    
 
 <br>
 
