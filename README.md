@@ -10,8 +10,6 @@ Rod is a ✨ _Python Dev_ ✨ previously building test automations as a Test Eng
   
   🧰 Builder of [Arkivist](https://github.com/rmaniego/arkivist), [Woshi](https://github.com/rmaniego/woshi), and [Nektar](https://github.com/rmaniego/nektar)
   
-  👨🏽‍🌾 Multipassionate, Advocate of Practical Sustainability!
-  
 <div style="text-align: center;">
   <code><a href="#"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" width="20px"></a></code>
   <code><a href="#"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" width="20px"></a></code>
