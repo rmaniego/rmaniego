@@ -1,6 +1,6 @@
 Hi there! 👋
 
-Rod is a ✨ _Python Dev_ ✨ previously building test automations as a Test Engineer, whoa! A deviant dev who's tugged between `CLI` and web, but is in the direction of data science and machine learning field.
+Ryd is a ✨ _Python Dev_ ✨ previously building test automations as a Test Engineer, whoa! A deviant dev who's tugged between `CLI` and web, but is in the direction of data science and machine learning field.
 
   💼 Aspiring ML Engineer
   
