@@ -8,15 +8,21 @@ Ryd is a ✨ _Python Dev_ ✨ previously building test automations as a Test Eng
   
   🐝 Automating HiveHealth [↗](https://hivehealth.onrender.com)
   
+  🪙 Building on Wax Blockchain
+  
   🧰 Builder of [Arkivist](https://github.com/rmaniego/arkivist), [Woshi](https://github.com/rmaniego/woshi), and [Nektar](https://github.com/rmaniego/nektar)
   
 <div style="text-align: center;">
   <code><a href="#"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" width="20px"></a></code>
+  <code><a href="#"><img src="https://skillicons.dev/icons?i=flask&theme=light" height="20px"></a></code>
   <code><a href="#"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" width="20px"></a></code>
   <code><a href="#"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" width="20px"></a></code>
   <code><a href="#"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" width="20px"></a></code>
   <code><a href="#"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" width="20px"></a></code>
-  <code><a href="#"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" height="20px"></a></code>
+  <code><a href="#"><img src="https://skillicons.dev/icons?i=js&theme=light" height="20px"></a></code>
+  <code><a href="#"><img src="https://skillicons.dev/icons?i=ts&theme=light" height="20px"></a></code>
+  <code><a href="#"><img src="https://skillicons.dev/icons?i=nuxtjs&theme=light" height="20px"></a></code>
+  <code><a href="#"><img src="https://skillicons.dev/icons?i=r&theme=light" height="20px"></a></code>
 </div>
 
 <br>
