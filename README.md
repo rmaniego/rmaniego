@@ -30,7 +30,7 @@ Ryd is a ✨ _Python Dev_ ✨ previously building test automations as a Test Eng
 <div>
   <span><a href="https://www.linkedin.com/in/rodmaniego/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="20px"></a><span>&nbsp;
   <span><a href="https://rodmaniego.wordpress.com/"><img src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" height="20px"></a><span>&nbsp;
-  <span><a href="https://www.hackerrank.com/rmaniego"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" height="20px"></a>
+  <span><a href="https://www.hackerrank.com/leaderboard?filter=Philippines&filter_on=country&limit=25&page=1&track=python&type=practice"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" height="20px"></a>
 </div>
     
 
