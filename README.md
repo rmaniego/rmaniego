@@ -4,9 +4,9 @@ Ryd is a ✨ _Python Dev_ ✨ previously building test automations as a Test Eng
 
   💼 Aspiring ML Engineer
   
-  🔮 Working on Presage [↗](https://presage.herokuapp.com/)
+  🔮 Working on Presage
   
-  🐝 Automating HiveHealth [↗](https://hivehealth.onrender.com)
+  🐝 Automating HiveHealth
   
   🪙 Building on Wax Blockchain
   
