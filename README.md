@@ -14,6 +14,7 @@ Ryd is a ✨ _Python Dev_ ✨ previously building test automations as a Test Eng
   
 <div style="text-align: center;">
   <code><a href="#"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" width="20px"></a></code>
+  <code><a href="#"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" width="20px"></a></code>
   <code><a href="#"><img src="https://skillicons.dev/icons?i=flask&theme=light" height="20px"></a></code>
   <code><a href="#"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" width="20px"></a></code>
   <code><a href="#"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" width="20px"></a></code>
