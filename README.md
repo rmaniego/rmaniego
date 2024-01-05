@@ -1,8 +1,10 @@
 Hi there! 👋
 
-Ryd is a ✨ _Python Dev_ ✨ previously building test automations as a Test Engineer, whoa! A deviant dev who's tugged between `CLI` and web, but is in the direction of machine learning field.
+Ryd is a ✨ _Python Dev_ ✨ previously building test automations as a Test Engineer, whoa! A deviant dev who's tugged between `CLI` and web, but is actively working in the Natural Language Processing field.
 
   💼 Aspiring NLP Engineer
+  
+  💬 Working on NLP Research
   
   🔮 Working on Presage API
   
