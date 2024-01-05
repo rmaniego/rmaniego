@@ -6,11 +6,11 @@ Ryd is a ✨ _Python Dev_ ✨ previously building test automations as a Test Eng
   
   💬 Working on NLP Research
   
-  🏛️ Building on Wax Blockchain
-  
-  🔮 Previously worked on Presage API
-  
-  🐝 Previously worked on HiveHealth
+  <sup>🏛️ Previously worked on GM:Frens × GM:Transfers</sup>
+  <sup>&nbsp;</sup><br/>
+  <sup>🔮 Previously worked on Presage API</sup>
+  <sup>&nbsp;</sup><br/>
+  <sup>🐝 Previously worked on HiveHealth</sup>
   
   🧰 Builder of [Arkivist](https://github.com/rmaniego/arkivist), [Woshi](https://github.com/rmaniego/woshi), and [Nektar](https://github.com/rmaniego/nektar)
   
