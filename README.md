@@ -8,6 +8,8 @@ Ryd is a ✨ _Python Dev_ ✨ previously building test automations as a Test Eng
   
   <sup title="on HIVE×WAX Blockchains">🏛️ Previously worked on <img src="https://gmtransfers.vercel.app/gmfrens-logo.png" width="10px" height="10px" /> GM:Frens × GM:Transfers</sup>
   <sup>&nbsp;</sup><br/>
+  <sup title="using Python (Flask)"><img src="https://financeph.vercel.app/static/philippines.png" width="10px" height="10px" /> Proudly local: PH Inflation Calculator</sup>
+  <sup>&nbsp;</sup><br/>
   <sup title="Cryptocurrency Prediction Service">🔮 Previously worked on Presage API</sup>
   <sup>&nbsp;</sup><br/>
   <sup>🐝 Previously worked on HiveHealth</sup>
