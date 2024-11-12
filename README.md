@@ -1,6 +1,6 @@
 Hi there! 👋
 
-Ryd is a ✨ _Python Dev_ ✨ previously building test automations as a Test Engineer, whoa! A deviant dev who's tugged between `CLI` and web, but is actively working in the Natural Language Processing field.
+Ryd is an ✨ _NLP Researcher_ ✨ previously  a a Test Engineer, whoa! A multipassionate tugged between literature, technology, and math.
 
   💼 Aspiring NLP Engineer
   
