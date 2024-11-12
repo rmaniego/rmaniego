@@ -1,10 +1,8 @@
 Hi there! 👋
 
-Ryd is an ✨ _NLP Researcher_ ✨ previously  a a Test Engineer, whoa! A multipassionate tugged between literature, technology, and math.
+Ryd is an ✨ _NLP Researcher_ ✨ previously an Embedded Test Engineer, whoa! A multipassionate tugged between literature, technology, and math.
 
   💼 Aspiring NLP Engineer
-  
-  💬 Working on NLP Research
   
   <sup title="on HIVE×WAX Blockchains">🏛️ Previously worked on <img src="https://gmtransfers.vercel.app/gmfrens-logo.png" width="10px" height="10px" /> GM:Frens × GM:Transfers</sup>
   <sup>&nbsp;</sup><br/>
