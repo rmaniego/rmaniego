@@ -4,8 +4,8 @@ Ryd is an ✨ _NLP Researcher_ ✨ previously an Embedded Test Engineer, whoa! A
 
   💼 Aspiring NLP Engineer
   
-  <sup title="GIS-based Bin Finder">🍃 Working on `Green App` for Android</sup><br />
   <sup title="Media-based dynamic form-builder and online surveys.">🦄 Working on <a href="https://unpitch.vercel.app/" target="_blank">UnPitch</a> platform</sup><br />
+  <sup title="GIS-based Bin Finder">🍃 Working on `Green App` for Android</sup><br />
   <sup title="on HIVE×WAX Blockchains">🏛️ Previously worked on <img src="https://gmtransfers.vercel.app/gmfrens-logo.png" width="10px" height="10px" /> GM:Frens × GM:Transfers</sup>
   <sup>&nbsp;</sup><br/>
   <sup title="using Python (Flask)"><img src="https://financeph.vercel.app/static/philippines.png" width="10px" height="10px" /> Proudly [#Local](https://rodmaniego.wordpress.com/2021/07/01/python-implementation-for-the-philippine-inflation-calculator/): PH [Inflation Calculator](https://financeph.vercel.app/)</sup>
