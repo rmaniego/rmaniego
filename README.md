@@ -27,7 +27,7 @@ Ryd is an ✨ _NLP Researcher_ ✨ previously an Embedded Test Engineer, whoa! A
   <code><a href="#"><img src="https://skillicons.dev/icons?i=js&theme=light" height="20px"></a></code>
   <code><a href="#"><img src="https://skillicons.dev/icons?i=ts&theme=light" height="20px"></a></code>
   <code><a href="#"><img src="https://skillicons.dev/icons?i=nuxtjs&theme=light" height="20px"></a></code>
-  <code><a href="#"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase" width="20px"></a></code>
+  <code><a href="#"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" width="20px"></a></code>
   <code><a href="#"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/azure/azure.png" width="20px"></a></code>
   <code><a href="#"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" width="20px"></a></code>
   <code><a href="#"><img src="https://skillicons.dev/icons?i=r&theme=light" height="20px"></a></code>
