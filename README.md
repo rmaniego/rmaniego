@@ -1,6 +1,6 @@
 Hi there! 👋
 
-Ryd is an ✨ _NLP Researcher_ ✨ previously an Embedded Test Engineer, whoa! A multipassionate tugged into literature, mathematics, and technology.
+Ryd is an ✨ _NLP Researcher_ ✨ and previously an Embedded Test Engineer—whoa! A multipassionate tugged into literature, mathematics, and technology.
 
   💼 Aspiring NLP Engineer
   
