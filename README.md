@@ -39,8 +39,6 @@ Ryd is an ✨ _NLP Researcher_ ✨ and previously an Embedded Test Engineer—wh
 
 <br>
 
-![RManiego's GitHub stats](https://github-readme-stats.vercel.app/api?username=rmaniego&show_icons=true&include_all_commits=true)
-
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rmaniego&layout=compact&theme=buefy&hide_border=true)
 
 
