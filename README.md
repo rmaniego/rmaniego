@@ -7,7 +7,8 @@ Ryd is an ✨ _NLP Researcher_ ✨ and previously an Embedded Test Engineer—wh
 <div style="text-align: center;">
   <code><a href="#"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" width="20px" title="Python"></a></code>
   <code><a href="#"><img src="https://skillicons.dev/icons?i=flask&theme=light" height="20px" title="Flask"></a></code>
-    <code><a href="#"><img src="https://skillicons.dev/icons?i=flutter&theme=light" height="20px" title=Flutter""></a></code>
+  <code><a href="#"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" width="20px" title="PHP"></a></code>
+      <code><a href="#"><img src="https://skillicons.dev/icons?i=flutter&theme=light" height="20px" title=Flutter""></a></code>
   <code><a href="#"><img src="https://skillicons.dev/icons?i=dart&theme=light" height="20px" title="Dart"></a></code>
     <code><a href="#"><img src="https://skillicons.dev/icons?i=js&theme=light" height="20px" title="JavaScript"></a></code>
   <code><a href="#"><img src="https://skillicons.dev/icons?i=ts&theme=light" height="20px" title="TypeScript"></a></code>
@@ -21,7 +22,8 @@ Ryd is an ✨ _NLP Researcher_ ✨ and previously an Embedded Test Engineer—wh
   <code><a href="#"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png" width="20px" title="Kotlin"></a></code>
   <code><a href="#"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" width="20px" title="SQL"></a></code>
   <code><a href="#"><img src="https://skillicons.dev/icons?i=sqlite&theme=light" width="20px" title="SQLite"></a></code>
-  <code><a href="#"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" width="20px" title="PostgreSQL"></a></code>
+  <code><a href="#"><img src="https://skillicons.dev/icons?i=mysql&theme=light" height="20px" title=MySQL""></a></code>
+    <code><a href="#"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" width="20px" title="PostgreSQL"></a></code>
   <code><a href="#"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" width="20px" title="HTML5"></a></code>
   <code><a href="#"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" width="20px" title="CSS"></a></code>
   <code><a href="#"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" width="20px" title="C"></a></code>
